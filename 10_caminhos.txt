@@ -1,0 +1,50 @@
+Partindo de Azores:
+['Azores', 'London', 'Paris', 'Rome', 'Berlin', 'Moscow', 'Istanbul', 'Cairo', 'Baghdad', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Melbourne', 'Sydney', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Montreal', 'New York', 'Chicago', 'New Orleans', 'Mexico City', 'Panama City', 'Santiago', 'Buenos Aires', 'Rio de Janeiro', 'Capetown', 'Azores']
+Peso = 509.0
+
+
+Partindo de Baghdad:
+['Baghdad', 'Cairo', 'Istanbul', 'Rome', 'Berlin', 'Paris', 'London', 'Azores', 'Montreal', 'New York', 'Chicago', 'New Orleans', 'Mexico City', 'Panama City', 'Santiago', 'Buenos Aires', 'Rio de Janeiro', 'Capetown', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Melbourne', 'Sydney', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Moscow', 'Baghdad']
+Peso = 529.0
+
+
+Partindo de Berlin:
+['Berlin', 'Moscow', 'Baghdad', 'Cairo', 'Istanbul', 'Rome', 'Paris', 'London', 'Azores', 'Montreal', 'New York', 'Chicago', 'New Orleans', 'Mexico City', 'Panama City', 'Santiago', 'Buenos Aires', 'Rio de Janeiro', 'Capetown', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Melbourne', 'Sydney', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Berlin']
+Peso = 534.0
+
+
+Partindo de Bombay:
+['Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Melbourne', 'Sydney', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Montreal', 'New York', 'Chicago', 'New Orleans', 'Mexico City', 'Panama City', 'Santiago', 'Buenos Aires', 'Rio de Janeiro', 'Capetown', 'Azores', 'London', 'Paris', 'Rome', 'Berlin', 'Moscow', 'Istanbul', 'Cairo', 'Baghdad', 'Bombay']
+Peso = 509.0
+
+
+Partindo de Buenos Aires:
+['Buenos Aires', 'Santiago', 'Sydney', 'Melbourne', 'Capetown', 'Azores', 'London', 'Paris', 'Rome', 'Berlin', 'Moscow', 'Istanbul', 'Cairo', 'Baghdad', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Montreal', 'New York', 'Chicago', 'New Orleans', 'Mexico City', 'Panama City', 'Rio de Janeiro', 'Buenos Aires']
+Peso = 560.0
+
+
+Partindo de Cairo:
+['Cairo', 'Baghdad', 'Moscow', 'Juneau', 'Seattle', 'San Francisco', 'Honolulu', 'Sydney', 'Melbourne', 'Guam', 'Manila', 'Tokyo', 'Shanghai', 'Bombay', 'Capetown', 'Rio de Janeiro', 'Buenos Aires', 'Santiago', 'Panama City', 'Mexico City', 'New Orleans', 'Chicago', 'New York', 'Montreal', 'Azores', 'London', 'Paris', 'Berlin', 'Rome', 'Istanbul', 'Cairo']
+Peso = 529.0
+
+
+Partindo de Capetown:
+['Capetown', 'Rio de Janeiro', 'Buenos Aires', 'Santiago', 'Panama City', 'New York', 'Montreal', 'Chicago', 'New Orleans', 'Mexico City', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Moscow', 'Berlin', 'London', 'Azores', 'Paris', 'Rome', 'Istanbul', 'Cairo', 'Baghdad', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Sydney', 'Melbourne', 'Capetown']
+Peso = 540.0
+
+
+Partindo de Chicago:
+['Chicago', 'Montreal', 'New York', 'New Orleans', 'Mexico City', 'Panama City', 'Santiago', 'Buenos Aires', 'Rio de Janeiro', 'Capetown', 'Azores', 'London', 'Paris', 'Rome', 'Berlin', 'Moscow', 'Istanbul', 'Cairo', 'Baghdad', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Melbourne', 'Sydney', 'Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Chicago']
+Peso = 511.0
+
+
+Partindo de Guam:
+['Guam', 'Tokyo', 'Shanghai', 'Manila', 'Bombay', 'Baghdad', 'Moscow', 'Berlin', 'London', 'Azores', 'Paris', 'Rome', 'Istanbul', 'Cairo', 'Capetown', 'Rio de Janeiro', 'Buenos Aires', 'Santiago', 'Panama City', 'Mexico City', 'New Orleans', 'New York', 'Montreal', 'Chicago', 'Juneau', 'Seattle', 'San Francisco', 'Honolulu', 'Sydney', 'Melbourne', 'Guam']
+Peso = 512.0
+
+
+Partindo de Honolulu:
+['Honolulu', 'San Francisco', 'Seattle', 'Juneau', 'Montreal', 'New York', 'Chicago', 'New Orleans', 'Mexico City', 'Panama City', 'Santiago', 'Buenos Aires', 'Rio de Janeiro', 'Capetown', 'Azores', 'London', 'Paris', 'Rome', 'Berlin', 'Moscow', 'Istanbul', 'Cairo', 'Baghdad', 'Bombay', 'Shanghai', 'Tokyo', 'Manila', 'Guam', 'Melbourne', 'Sydney', 'Honolulu']
+Peso = 509.0
+
+
